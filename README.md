@@ -50,3 +50,12 @@ A C++ project that demonstrates:
 * Constructor Initialization Lists
 * Method Reuse
 * Employee Data Management
+### 🔄 InsertionSort
+
+A C++ project that demonstrates:
+
+- Insertion Sort Algorithm
+- Arrays
+- Loops
+- Sorting Techniques
+- Problem Solving
