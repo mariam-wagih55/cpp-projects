@@ -40,3 +40,13 @@ A C++ project that demonstrates:
 * Operator Overloading
 * Fraction Addition
 * Fraction Subtraction
+### 👨‍💻 HourlyEmployee
+
+A C++ project that demonstrates:
+
+* Inheritance
+* Base and Derived Classes
+* Constructors
+* Constructor Initialization Lists
+* Method Reuse
+* Employee Data Management
