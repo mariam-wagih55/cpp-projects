@@ -19,3 +19,24 @@ I created this repository to practice C++ programming, improve my problem-solvin
 ## 🛠️ Language
 
 **C++**
+## 📂 Projects
+
+### 🏦 BankAccount
+
+A C++ project that demonstrates:
+
+* Classes and Objects
+* Constructors
+* Static Data Members
+* Deposit and Withdraw operations
+* Account information display
+
+### ➗ Fraction
+
+A C++ project that demonstrates:
+
+* Classes and Objects
+* Constructors
+* Operator Overloading
+* Fraction Addition
+* Fraction Subtraction
